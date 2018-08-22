@@ -27,7 +27,7 @@
 </head>
 
 <body>
-
+<script></script>
 
 	<div id="page">
 
