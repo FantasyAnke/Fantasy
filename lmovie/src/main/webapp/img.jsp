@@ -12,7 +12,14 @@
 <script type="text/javascript" src="js/bootstrap.js"></script>
 
 </head>
-<body><%-- 
+<body>
+
+
+<script></script>
+
+
+
+<%-- 
 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
  登录
 </button>
