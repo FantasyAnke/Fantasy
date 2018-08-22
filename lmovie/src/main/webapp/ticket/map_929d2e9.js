@@ -1,0 +1,1 @@
+define("common:widget/ui/map/map.js",function(){document.getElementById("mapScript");window.BMap_loadScriptTime=(new Date).getTime(),window.BMap=window.BMap||{},window.BMap.apiLoad=function(){delete window.BMap.apiLoad,"function"==typeof mapInit&&mapInit()}});
